@@ -1,1 +1,3 @@
-AUX
+AUX/*
+.auctex-auto
+.dir-locals.el
