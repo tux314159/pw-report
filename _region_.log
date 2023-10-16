@@ -1,0 +1,1948 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.9.18)  16 OCT 2023 11:38
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**\nonstopmode\nofiles\PassOptionsToPackage{active,tightpage,auctex}{preview}\AtBeginDocument{\ifx\ifPreview\undefined\RequirePackage[displaymath,floats,graphics,textmath,sections,footnotes]{preview}[2004/11/05]\fi} \input \detokenize{ _region_.tex }
+(./_region_.tex  !name(written-report.tex) (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\caption@tempdima=\dimen141
+\captionmargin=\dimen142
+\caption@leftmargin=\dimen143
+\caption@rightmargin=\dimen144
+\caption@width=\dimen145
+\caption@indent=\dimen146
+\caption@parindent=\dimen147
+\caption@hangindent=\dimen148
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count193
+\c@continuedfloat=\count194
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+ (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+) (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count196
+ (/usr/share/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count197
+\c@listtotal=\count198
+\c@listcount=\count199
+\c@liststart=\count266
+\c@liststop=\count267
+\c@citecount=\count268
+\c@citetotal=\count269
+\c@multicitecount=\count270
+\c@multicitetotal=\count271
+\c@instcount=\count272
+\c@maxnames=\count273
+\c@minnames=\count274
+\c@maxitems=\count275
+\c@minitems=\count276
+\c@citecounter=\count277
+\c@maxcitecounter=\count278
+\c@savedcitecounter=\count279
+\c@uniquelist=\count280
+\c@uniquename=\count281
+\c@refsection=\count282
+\c@refsegment=\count283
+\c@maxextratitle=\count284
+\c@maxextratitleyear=\count285
+\c@maxextraname=\count286
+\c@maxextradate=\count287
+\c@maxextraalpha=\count288
+\c@abbrvpenalty=\count289
+\c@highnamepenalty=\count290
+\c@lownamepenalty=\count291
+\c@maxparens=\count292
+\c@parenlevel=\count293
+\blx@tempcnta=\count294
+\blx@tempcntb=\count295
+\blx@tempcntc=\count296
+\c@blx@maxsection=\count297
+\blx@maxsegment@0=\count298
+\blx@notetype=\count299
+\blx@parenlevel@text=\count300
+\blx@parenlevel@foot=\count301
+\blx@sectionciteorder@0=\count302
+\blx@sectionciteorderinternal@0=\count303
+\blx@entrysetcounter=\count304
+\blx@biblioinstance=\count305
+\labelnumberwidth=\skip50
+\labelalphawidth=\skip51
+\biblabelsep=\skip52
+\bibitemsep=\skip53
+\bibnamesep=\skip54
+\bibinitsep=\skip55
+\bibparsep=\skip56
+\bibhang=\skip57
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language4
+\c@mincomprange=\count306
+\c@maxcomprange=\count307
+\c@mincompwidth=\count308
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'apa.dbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+File: apa.dbx 2022/06/22 v9.16 APA biblatex style data model
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count309
+\c@savedafterword=\count310
+\c@annotator=\count311
+\c@savedannotator=\count312
+\c@author=\count313
+\c@savedauthor=\count314
+\c@bookauthor=\count315
+\c@savedbookauthor=\count316
+\c@commentator=\count317
+\c@savedcommentator=\count318
+\c@editor=\count319
+\c@savededitor=\count320
+\c@editora=\count321
+\c@savededitora=\count322
+\c@editorb=\count323
+\c@savededitorb=\count324
+\c@editorc=\count325
+\c@savededitorc=\count326
+\c@foreword=\count327
+\c@savedforeword=\count328
+\c@holder=\count329
+\c@savedholder=\count330
+\c@introduction=\count331
+\c@savedintroduction=\count332
+\c@namea=\count333
+\c@savednamea=\count334
+\c@nameb=\count335
+\c@savednameb=\count336
+\c@namec=\count337
+\c@savednamec=\count338
+\c@translator=\count339
+\c@savedtranslator=\count340
+\c@shortauthor=\count341
+\c@savedshortauthor=\count342
+\c@shorteditor=\count343
+\c@savedshorteditor=\count344
+\c@narrator=\count345
+\c@savednarrator=\count346
+\c@execproducer=\count347
+\c@savedexecproducer=\count348
+\c@execdirector=\count349
+\c@savedexecdirector=\count350
+\c@with=\count351
+\c@savedwith=\count352
+\c@labelname=\count353
+\c@savedlabelname=\count354
+\c@institution=\count355
+\c@savedinstitution=\count356
+\c@lista=\count357
+\c@savedlista=\count358
+\c@listb=\count359
+\c@savedlistb=\count360
+\c@listc=\count361
+\c@savedlistc=\count362
+\c@listd=\count363
+\c@savedlistd=\count364
+\c@liste=\count365
+\c@savedliste=\count366
+\c@listf=\count367
+\c@savedlistf=\count368
+\c@location=\count369
+\c@savedlocation=\count370
+\c@organization=\count371
+\c@savedorganization=\count372
+\c@origlocation=\count373
+\c@savedoriglocation=\count374
+\c@origpublisher=\count375
+\c@savedorigpublisher=\count376
+\c@publisher=\count377
+\c@savedpublisher=\count378
+\c@language=\count379
+\c@savedlanguage=\count380
+\c@origlanguage=\count381
+\c@savedoriglanguage=\count382
+\c@citation=\count383
+\c@savedcitation=\count384
+\c@pageref=\count385
+\c@savedpageref=\count386
+\shorthandwidth=\skip58
+\shortjournalwidth=\skip59
+\shortserieswidth=\skip60
+\shorttitlewidth=\skip61
+\shortauthorwidth=\skip62
+\shorteditorwidth=\skip63
+\locallabelnumberwidth=\skip64
+\locallabelalphawidth=\skip65
+\localshorthandwidth=\skip66
+\localshortjournalwidth=\skip67
+\localshortserieswidth=\skip68
+\localshorttitlewidth=\skip69
+\localshortauthorwidth=\skip70
+\localshorteditorwidth=\skip71
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count387
+\c@textcitetotal=\count388
+\c@textcitemaxnames=\count389
+\c@biburlbigbreakpenalty=\count390
+\c@biburlbreakpenalty=\count391
+\c@biburlnumpenalty=\count392
+\c@biburlucpenalty=\count393
+\c@biburllcpenalty=\count394
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count395
+)
+Package biblatex Info: Trying to load bibliography style 'apa'...
+Package biblatex Info: ... file 'apa.bbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+File: apa.bbx 2022/06/22 v9.16 APA biblatex references style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count396
+\c@bbx:relatedtotal=\count397
+)
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already defined, overwriting.
+)
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex-apa/apa.cbx
+File: apa.cbx 2022/06/22 v9.16 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+ (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count398
+\l__pdf_internal_box=\box51
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2023-02-22 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (/usr/share/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-02-02 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+)) (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+ (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count399
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count400
+\Hy@pagecounter=\count401
+ (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count402
+ (/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4060.
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4425.
+\c@Hy@tempcnt=\count403
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen152
+ (/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count404
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring ON on input line 6060.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count405
+\c@Item=\count406
+\c@Hfootnote=\count407
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+ (/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count408
+\c@bookmark@seq@number=\count409
+
+(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip72
+) (/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+\MT@toks=\toks17
+\MT@tempbox=\box52
+\MT@count=\count410
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks18
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen155
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count411
+ (/usr/share/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip73
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+)) (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (/usr/share/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+ (/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen156
+\ar@mcellbox=\box53
+\extrarowheight=\dimen157
+\NC@list=\toks19
+\extratabsurround=\skip74
+\backup@length=\skip75
+\ar@cellbox=\box54
+)
+\everycr=\toks20
+\minrowclearance=\skip76
+\rownum=\count412
+) (/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (/usr/share/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count413
+\c@@ppsavesec=\count414
+\c@@ppsaveapp=\count415
+) (/usr/share/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: always capitalise cross-reference names on input line 7825.
+Package cleveref Info: always capitalise cross-reference names on input line 7852.
+) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count416
+\Gm@cntv=\count417
+\c@Gm@tempcnt=\count418
+\Gm@bindingoffset=\dimen158
+\Gm@wd@mp=\dimen159
+\Gm@odd@mp=\dimen160
+\Gm@even@mp=\dimen161
+\Gm@layoutwidth=\dimen162
+\Gm@layoutheight=\dimen163
+\Gm@layouthoffset=\dimen164
+\Gm@layoutvoffset=\dimen165
+\Gm@dimlist=\toks21
+) (/usr/share/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (/usr/share/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (/usr/share/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2023/02/25 v3.4 ragged2e Package
+\CenteringLeftskip=\skip77
+\RaggedLeftLeftskip=\skip78
+\RaggedRightLeftskip=\skip79
+\CenteringRightskip=\skip80
+\RaggedLeftRightskip=\skip81
+\RaggedRightRightskip=\skip82
+\CenteringParfillskip=\skip83
+\RaggedLeftParfillskip=\skip84
+\RaggedRightParfillskip=\skip85
+\JustifyingParfillskip=\skip86
+\CenteringParindent=\skip87
+\RaggedLeftParindent=\skip88
+\RaggedRightParindent=\skip89
+\JustifyingParindent=\skip90
+)
+\@quotelevel=\count419
+\@quotereset=\count420
+
+No file _region_.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count421
+\scratchdimen=\dimen166
+\scratchbox=\box55
+\nofMPsegments=\count422
+\nofMParguments=\count423
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count424
+\MPscratchDim=\dimen167
+\MPnumerator=\count425
+\makeMPintoPDFobject=\count426
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
+Package biblatex Info: ... file 'english-apa.lbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+File: english-apa.lbx 2022/06/22 v9.16 APA biblatex localisation
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
+Package biblatex Info: ... file 'american-apa.lbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
+File: american-apa.lbx 2022/06/22 v9.16 APA biblatex localisation
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+))))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file '_region_.bbl' not found.
+
+No file _region_.bbl.
+Package biblatex Info: Reference section=0 on input line 25.
+Package biblatex Info: Reference segment=0 on input line 25.
+\providecommand\hyper@newdestlabel[2]{}
+Package hyperref Info: Link coloring ON on input line 25.
+LaTeX Info: Redefining \microtypecontext on input line 25.
+Package microtype Info: Applying patch `item' on input line 25.
+Package microtype Info: Applying patch `toc' on input line 25.
+Package microtype Info: Applying patch `eqnum' on input line 25.
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 25.
+
+Package microtype Info: Applying patch `verbatim' on input line 25.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 25.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(93.95122pt, 409.60544pt, 93.95122pt)
+* v-part:(T,H,B)=(93.95122pt, 657.14441pt, 93.95122pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=409.60544pt
+* \textheight=657.14441pt
+* \oddsidemargin=21.68123pt
+* \evensidemargin=21.68123pt
+* \topmargin=-15.31877pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/home/isaac/.config/emacs/.local/straight/build-29.1/auctex/latex/preview.sty
+Package: preview 2023/01/17 13.2 (AUCTeX/preview-latex)
+ (/home/isaac/.config/emacs/.local/straight/build-29.1/auctex/latex/prtightpage.def
+\PreviewBorder=\dimen168
+) (/home/isaac/.config/emacs/.local/straight/build-29.1/auctex/latex/prauctex.def
+No auxiliary output files.
+
+
+\hbadness=\count427
+\hfuzz=\dimen169
+(/home/isaac/.config/emacs/.local/straight/build-29.1/auctex/latex/prauctex.cfg)) (/home/isaac/.config/emacs/.local/straight/build-29.1/auctex/latex/prfootnotes.def)
+\pr@snippet=\count428
+\pr@box=\box56
+\pr@output=\toks24
+
+Preview: Fontsize 10pt
+Preview: PDFoutput 1
+)  !name(written-report.tex) !offset(-3) 
+./_region_.tex:32: Preview: Snippet 1 started.
+<-><->
+      
+l.32   \includegraphics
+                       [scale=0.5]{ri-school-crest.png} \\
+Not a real error.
+
+<./images//ri-school-crest.png, id=4, 303.1325pt x 428.60126pt>
+File: ./images//ri-school-crest.png Graphic file (type png)
+<use ./images//ri-school-crest.png>
+Package pdftex.def Info: ./images//ri-school-crest.png  used on input line 32.
+(pdftex.def)             Requested size: 151.56587pt x 214.3001pt.
+Preview: Tightpage -32891 -32891 32891 32891
+./_region_.tex:32: Preview: Snippet 1 ended.(14044371+0x9933021).
+<-><->
+      
+l.32 ...degraphics[scale=0.5]{ri-school-crest.png}
+                                                   \\
+Not a real error.
+
+[1 <./images//ri-school-crest.png>]
+
+./_region_.tex:32: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 ...raphics[scale=0.5]{ri-school-crest.png} \\
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./_region_.tex:39: Preview: Snippet 2 started.
+<-><->
+      
+l.39     Vera Tay\footnote
+                          {Group leader} \\
+Not a real error.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 39.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 39.
+(/usr/share/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 39.
+
+./_region_.tex:39: Preview: Snippet 2 ended.(623265+0x311300).
+<-><->
+      
+l.39     Vera Tay\footnote{Group leader}
+                                         \\
+Not a real error.
+
+[2{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+./_region_.tex:64: Preview: Snippet 3 started.
+<-><->
+      
+l.64 \tableofcontents
+                     
+Not a real error.
+
+./_region_.tex:64: Preview: Snippet 3 ended.(647495+0x26843902).
+<-><->
+      
+l.64 \tableofcontents
+                     
+Not a real error.
+
+[3]
+No file _region_.toc.
+./_region_.tex:70: Preview: Snippet 4 started.
+<-><->
+      
+l.70 \section
+             {Identification of problem}
+Not a real error.
+
+./_region_.tex:70: Preview: Snippet 4 ended.(655359+183500x26843902).
+<-><->
+      
+l.70 \section{Identification of problem}
+                                        
+Not a real error.
+
+[4
+
+]
+./_region_.tex:71: Preview: Snippet 5 started.
+<-><->
+      
+l.71 \subsection
+                {Choice of topic}
+Not a real error.
+
+./_region_.tex:71: Preview: Snippet 5 ended.(546132+152916x26843902).
+<-><->
+      
+l.71 \subsection{Choice of topic}
+                                 
+Not a real error.
+
+[5
+
+]
+./_region_.tex:72: Preview: Snippet 6 started.
+<-><->
+      
+l.72 \paragraph
+               {} Amid the digitalisation of Singapore and the world, there ...
+Not a real error.
+
+./_region_.tex:72: Preview: Snippet 6 ended.(0+0x0).
+<-><->
+      
+l.72 \paragraph{}
+                  Amid the digitalisation of Singapore and the world, there ...
+Not a real error.
+
+[6
+
+]
+./_region_.tex:77: Preview: Snippet 7 started.
+<-><->
+      
+l.77 \subsection
+                {Rationale for choice of topic}
+Not a real error.
+
+./_region_.tex:77: Preview: Snippet 7 ended.(546132+152916x26843902).
+<-><->
+      
+l.77 \subsection{Rationale for choice of topic}
+                                               
+Not a real error.
+
+[7
+
+]
+./_region_.tex:78: Preview: Snippet 8 started.
+<-><->
+      
+l.78 \paragraph
+               {} As society becomes increasingly digitalised, many day-to-day
+Not a real error.
+
+./_region_.tex:78: Preview: Snippet 8 ended.(0+0x0).
+<-><->
+      
+l.78 \paragraph{}
+                  As society becomes increasingly digitalised, many day-to-day
+Not a real error.
+
+[8
+
+]
+
+LaTeX Warning: Citation 'ITA.2022' on page 1 undefined on input line 79.
+
+
+LaTeX Warning: Citation 'Tham.2023' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation 'Begum.2022' on page 1 undefined on input line 86.
+
+
+LaTeX Warning: Citation 'SCDF.2023' on page 1 undefined on input line 87.
+
+./_region_.tex:90: Preview: Snippet 9 started.
+<-><->
+      
+l.90 \subsection
+                {Significance of problem}
+Not a real error.
+
+./_region_.tex:90: Preview: Snippet 9 ended.(546132+152916x26843902).
+<-><->
+      
+l.90 \subsection{Significance of problem}
+                                         
+Not a real error.
+
+[9
+
+]
+./_region_.tex:91: Preview: Snippet 10 started.
+<-><->
+      
+l.91 \paragraph
+               {} On the individual level, scam victims tend to feel shame and
+Not a real error.
+
+./_region_.tex:91: Preview: Snippet 10 ended.(0+0x0).
+<-><->
+      
+l.91 \paragraph{}
+                  On the individual level, scam victims tend to feel shame and
+Not a real error.
+
+[10
+
+]
+
+LaTeX Warning: Citation 'CNA.2022' on page 1 undefined on input line 92.
+
+
+LaTeX Warning: Citation 'SiowDivi.2023' on page 1 undefined on input line 93.
+
+./_region_.tex:95: Preview: Snippet 11 started.
+<-><->
+      
+l.95 \paragraph
+               {} Scam victims also risk thinking that taking advantage of o...
+Not a real error.
+
+./_region_.tex:95: Preview: Snippet 11 ended.(0+0x0).
+<-><->
+      
+l.95 \paragraph{}
+                  Scam victims also risk thinking that taking advantage of o...
+Not a real error.
+
+[11
+
+]
+
+LaTeX Warning: Citation 'SiowDivi.2023' on page 1 undefined on input line 98.
+
+./_region_.tex:101: Preview: Snippet 12 started.
+<-><->
+      
+l.101 \paragraph
+                {} To society at large, the substantial amount of money lost...
+Not a real error.
+
+./_region_.tex:101: Preview: Snippet 12 ended.(0+0x0).
+<-><->
+      
+l.101 \paragraph{}
+                   To society at large, the substantial amount of money lost...
+Not a real error.
+
+[12
+
+]
+
+LaTeX Warning: Citation 'Chua.2023' on page 1 undefined on input line 104.
+
+./_region_.tex:106: Preview: Snippet 13 started.
+<-><->
+      
+l.106 \paragraph
+                {} Youths' current vulnerability to the numerous scam opport...
+Not a real error.
+
+./_region_.tex:106: Preview: Snippet 13 ended.(0+0x0).
+<-><->
+      
+l.106 \paragraph{}
+                   Youths' current vulnerability to the numerous scam opport...
+Not a real error.
+
+[13
+
+]
+
+LaTeX Warning: Citation 'Rikvin' on page 1 undefined on input line 113.
+
+./_region_.tex:115: Preview: Snippet 14 started.
+<-><->
+      
+l.115 \subsection
+                 {Rationale for choice of target group}
+Not a real error.
+
+./_region_.tex:115: Preview: Snippet 14 ended.(546132+152916x26843902).
+<-><->
+      
+l.115 ...ion{Rationale for choice of target group}
+                                                  
+Not a real error.
+
+[14
+
+]
+./_region_.tex:116: Preview: Snippet 15 started.
+<-><->
+      
+l.116 \paragraph
+                {} As most youth have just entered the workforce, there is
+Not a real error.
+
+./_region_.tex:116: Preview: Snippet 15 ended.(0+0x0).
+<-><->
+      
+l.116 \paragraph{}
+                   As most youth have just entered the workforce, there is
+Not a real error.
+
+[15
+
+]
+
+LaTeX Warning: Reference `fig:incomegraph' on page 1 undefined on input line 117.
+
+
+LaTeX Warning: Citation 'Chua.2023' on page 1 undefined on input line 120.
+
+
+LaTeX Warning: Citation 'SiowDivi.2023' on page 1 undefined on input line 122.
+
+./_region_.tex:126: Preview: Snippet 16 started.
+<-><->
+      
+l.126 \begin{figure}
+                    [ht]
+Not a real error.
+
+<./images//incomegraph.png, id=84, 2006.49625pt x 845.1575pt>
+File: ./images//incomegraph.png Graphic file (type png)
+<use ./images//incomegraph.png>
+Package pdftex.def Info: ./images//incomegraph.png  used on input line 127.
+(pdftex.def)             Requested size: 409.60544pt x 172.52333pt.
+./_region_.tex:131: Preview: Snippet 16 ended.(13534713+0x26843902).
+<-><->
+      
+l.131 \end{figure}
+                  
+Not a real error.
+
+[16
+
+
+
+
+ <./images//incomegraph.png>]
+./_region_.tex:133: Preview: Snippet 17 started.
+<-><->
+      
+l.133 \paragraph
+                {} Since youths are just entering the job market and earn re...
+Not a real error.
+
+./_region_.tex:133: Preview: Snippet 17 ended.(0+0x0).
+<-><->
+      
+l.133 \paragraph{}
+                   Since youths are just entering the job market and earn re...
+Not a real error.
+
+[17
+
+]
+./_region_.tex:138: Preview: Snippet 18 started.
+<-><->
+      
+l.138 \paragraph
+                {} Considering that this group will shortly be the main cont...
+Not a real error.
+
+./_region_.tex:138: Preview: Snippet 18 ended.(0+0x0).
+<-><->
+      
+l.138 \paragraph{}
+                   Considering that this group will shortly be the main cont...
+Not a real error.
+
+[18
+
+]
+
+LaTeX Warning: Citation 'SiowDivi.2023' on page 1 undefined on input line 141.
+
+./_region_.tex:143: Preview: Snippet 19 started.
+<-><->
+      
+l.143 \paragraph
+                {} Lastly, the habits of young adults towards scams may be e...
+Not a real error.
+
+./_region_.tex:143: Preview: Snippet 19 ended.(0+0x0).
+<-><->
+      
+l.143 \paragraph{}
+                   Lastly, the habits of young adults towards scams may be e...
+Not a real error.
+
+[19
+
+]
+
+LaTeX Warning: Citation 'GoodTherapy.2019' on page 1 undefined on input line 145.
+
+./_region_.tex:149: Preview: Snippet 20 started.
+<-><->
+      
+l.149 \section
+              {Analysis of target group and the problem}
+Not a real error.
+
+./_region_.tex:149: Preview: Snippet 20 ended.(655359+183500x26843902).
+<-><->
+      
+l.149 ...Analysis of target group and the problem}
+                                                  
+Not a real error.
+
+[20
+
+]
+./_region_.tex:150: Preview: Snippet 21 started.
+<-><->
+      
+l.150 \subsection
+                 {Causual factors}
+Not a real error.
+
+./_region_.tex:150: Preview: Snippet 21 ended.(546132+0x26843902).
+<-><->
+      
+l.150 \subsection{Causual factors}
+                                  
+Not a real error.
+
+[21
+
+]
+./_region_.tex:151: Preview: Snippet 22 started.
+<-><->
+      
+l.151 \subsubsection
+                    {Complacent attitudes}
+Not a real error.
+
+./_region_.tex:151: Preview: Snippet 22 ended.(455111+127431x26843902).
+<-><->
+      
+l.151 \subsubsection{Complacent attitudes}
+                                          
+Not a real error.
+
+[22
+
+]
+./_region_.tex:152: Preview: Snippet 23 started.
+<-><->
+      
+l.152 \paragraph
+                {} Young adults tend to have the misconception that they are...
+Not a real error.
+
+./_region_.tex:152: Preview: Snippet 23 ended.(0+0x0).
+<-><->
+      
+l.152 \paragraph{}
+                   Young adults tend to have the misconception that they are...
+Not a real error.
+
+[23
+
+]
+
+LaTeX Warning: Citation 'Yuan.2023' on page 1 undefined on input line 155.
+
+
+LaTeX Warning: Citation 'Cheung.2023' on page 1 undefined on input line 159.
+
+
+LaTeX Warning: Citation 'Carlson.2022' on page 1 undefined on input line 160.
+
+./_region_.tex:162: Preview: Snippet 24 started.
+<-><->
+      
+l.162 \paragraph
+                {} Our survey results corroborate youths’ self-perceived c...
+Not a real error.
+
+./_region_.tex:162: Preview: Snippet 24 ended.(0+0x0).
+<-><->
+      
+l.162 \paragraph{}
+                   Our survey results corroborate youths’ self-perceived c...
+Not a real error.
+
+[24
+
+]
+
+LaTeX Warning: Reference `fig:scamknowledgegraph' on page 1 undefined on input line 163.
+
+./_region_.tex:167: Preview: Snippet 25 started.
+<-><->
+      
+l.167 \begin{figure}
+                    [ht]
+Not a real error.
+
+<./images//scamknowledgegraph.png, id=135, 2006.49625pt x 954.56625pt>
+File: ./images//scamknowledgegraph.png Graphic file (type png)
+<use ./images//scamknowledgegraph.png>
+Package pdftex.def Info: ./images//scamknowledgegraph.png  used on input line 168.
+(pdftex.def)             Requested size: 409.60544pt x 194.85712pt.
+./_region_.tex:176: Preview: Snippet 25 ended.(17357676+0x26843902).
+<-><->
+      
+l.176 \end{figure}
+                  
+Not a real error.
+
+[25
+
+
+
+ <./images//scamknowledgegraph.png>]
+./_region_.tex:179: Preview: Snippet 26 started.
+<-><->
+      
+l.179 \subsubsection
+                    {Lack of technical knowledge}
+Not a real error.
+
+./_region_.tex:179: Preview: Snippet 26 ended.(455111+127431x26843902).
+<-><->
+      
+l.179 \subsubsection{Lack of technical knowledge}
+                                                 
+Not a real error.
+
+[26
+
+]
+./_region_.tex:180: Preview: Snippet 27 started.
+<-><->
+      
+l.180 \paragraph
+                {} Youths are unable to recognise how common scams such as j...
+Not a real error.
+
+./_region_.tex:180: Preview: Snippet 27 ended.(0+0x0).
+<-><->
+      
+l.180 \paragraph{}
+                   Youths are unable to recognise how common scams such as j...
+Not a real error.
+
+[27
+
+]
+
+LaTeX Warning: Citation 'Hui.2023' on page 2 undefined on input line 184.
+
+./_region_.tex:186: Preview: Snippet 28 started.
+<-><->
+      
+l.186 \paragraph
+                {} Additionally, scammers constantly devise new tactics, suc...
+Not a real error.
+
+./_region_.tex:186: Preview: Snippet 28 ended.(0+0x0).
+<-><->
+      
+l.186 \paragraph{}
+                   Additionally, scammers constantly devise new tactics, suc...
+Not a real error.
+
+[28
+
+]
+
+LaTeX Warning: Citation 'Goddard.2023' on page 2 undefined on input line 188.
+
+./_region_.tex:192: Preview: Snippet 29 started.
+<-><->
+      
+l.192 \subsection
+                 {Current measures and gaps}
+Not a real error.
+
+./_region_.tex:192: Preview: Snippet 29 ended.(546132+152916x26843902).
+<-><->
+      
+l.192 \subsection{Current measures and gaps}
+                                            
+Not a real error.
+
+[29
+
+]
+./_region_.tex:193: Preview: Snippet 30 started.
+<-><->
+      
+l.193 \subsubsection
+                    {NCPC's campaign}
+Not a real error.
+
+./_region_.tex:193: Preview: Snippet 30 ended.(455111+127431x26843902).
+<-><->
+      
+l.193 \subsubsection{NCPC's campaign}
+                                     
+Not a real error.
+
+[30
+
+]
+./_region_.tex:194: Preview: Snippet 31 started.
+<-><->
+      
+l.194 \paragraph
+                {} The National Crime Prevention Council (NCPC) has launched an
+Not a real error.
+
+./_region_.tex:194: Preview: Snippet 31 ended.(0+0x0).
+<-><->
+      
+l.194 \paragraph{}
+                   The National Crime Prevention Council (NCPC) has launched an
+Not a real error.
+
+[31
+
+]
+
+LaTeX Warning: Citation 'Sun.2023' on page 2 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'NCPC' on page 2 undefined on input line 196.
+
+./_region_.tex:198: Preview: Snippet 32 started.
+<-><->
+      
+l.198 \paragraph
+                {} However, the campaign is intended for the general public ...
+Not a real error.
+
+./_region_.tex:198: Preview: Snippet 32 ended.(0+0x0).
+<-><->
+      
+l.198 \paragraph{}
+                   However, the campaign is intended for the general public ...
+Not a real error.
+
+[32
+
+]
+
+LaTeX Warning: Reference `fig:scamalert' on page 1 undefined on input line 200.
+
+./_region_.tex:204: Preview: Snippet 33 started.
+<-><->
+      
+l.204 \paragraph
+                {} Additionally, certain sections of the ScamAlert website c...
+Not a real error.
+
+./_region_.tex:204: Preview: Snippet 33 ended.(0+0x0).
+<-><->
+      
+l.204 \paragraph{}
+                   Additionally, certain sections of the ScamAlert website c...
+Not a real error.
+
+[33
+
+]
+
+LaTeX Warning: Citation 'ChowHari.2022' on page 2 undefined on input line 206.
+
+./_region_.tex:209: Preview: Snippet 34 started.
+<-><->
+      
+l.209 \begin{figure}
+                    [ht]
+Not a real error.
+
+<./images//scamalert.png, id=184, 603.25375pt x 376.40625pt>
+File: ./images//scamalert.png Graphic file (type png)
+<use ./images//scamalert.png>
+Package pdftex.def Info: ./images//scamalert.png  used on input line 211.
+(pdftex.def)             Requested size: 184.32118pt x 115.00763pt.
+<./images//scamalertwordy.png, id=185, 603.25375pt x 376.40625pt>
+File: ./images//scamalertwordy.png Graphic file (type png)
+<use ./images//scamalertwordy.png>
+Package pdftex.def Info: ./images//scamalertwordy.png  used on input line 217.
+(pdftex.def)             Requested size: 184.32118pt x 115.00763pt.
+./_region_.tex:221: Preview: Snippet 34 ended.(7537140+4587520x24159346).
+<-><->
+      
+l.221 \end{figure}
+                  
+Not a real error.
+
+[34
+
+
+
+
+
+
+ <./images//scamalert.png> <./images//scamalertwordy.png>]
+./_region_.tex:223: Preview: Snippet 35 started.
+<-><->
+      
+l.223 \subsubsection
+                    {The Straits Times' ``STOP SCAMS'' initiative}
+Not a real error.
+
+./_region_.tex:223: Preview: Snippet 35 ended.(455111+0x26843902).
+<-><->
+      
+l.223 ...Straits Times' ``STOP SCAMS'' initiative}
+                                                  
+Not a real error.
+
+[35
+
+]
+./_region_.tex:224: Preview: Snippet 36 started.
+<-><->
+      
+l.224 \paragraph
+                {} ST\footnote{The Straits Times}'s ``STOP SCAMS'' initiativ...
+Not a real error.
+
+./_region_.tex:224: Preview: Snippet 36 ended.(0+0x0).
+<-><->
+      
+l.224 \paragraph{}
+                   ST\footnote{The Straits Times}'s ``STOP SCAMS'' initiativ...
+Not a real error.
+
+[36
+
+]
+./_region_.tex:224: Preview: Snippet 37 started.
+<-><->
+      
+l.224 \paragraph{} ST\footnote
+                              {The Straits Times}'s ``STOP SCAMS'' initiativ...
+Not a real error.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 224.
+./_region_.tex:224: Preview: Snippet 37 ended.(533465+0x294003).
+<-><->
+      
+l.224 \paragraph{} ST\footnote{The Straits Times}
+                                                 's ``STOP SCAMS'' initiativ...
+Not a real error.
+
+[37]
+./_region_.tex:229: Preview: Snippet 38 started.
+<-><->
+      
+l.229 \begin{figure}
+                    [ht!]
+Not a real error.
+
+<./images//stopscams1.png, id=210, 483.8075pt x 195.73125pt>
+File: ./images//stopscams1.png Graphic file (type png)
+<use ./images//stopscams1.png>
+Package pdftex.def Info: ./images//stopscams1.png  used on input line 231.
+(pdftex.def)             Requested size: 184.32118pt x 74.56978pt.
+<./images//stopscams2.png, id=211, 489.83pt x 451.6875pt>
+File: ./images//stopscams2.png Graphic file (type png)
+<use ./images//stopscams2.png>
+Package pdftex.def Info: ./images//stopscams2.png  used on input line 233.
+(pdftex.def)             Requested size: 184.32118pt x 169.96822pt.
+./_region_.tex:236: Preview: Snippet 38 ended.(13367261+0x26843902).
+<-><->
+      
+l.236 \end{figure}
+                  
+Not a real error.
+
+[38
+
+
+
+ <./images//stopscams1.png> <./images//stopscams2.png>]
+./_region_.tex:238: Preview: Snippet 39 started.
+<-><->
+      
+l.238 \paragraph
+                {} While this initiative is also helpful and informative, it...
+Not a real error.
+
+./_region_.tex:238: Preview: Snippet 39 ended.(0+0x0).
+<-><->
+      
+l.238 \paragraph{}
+                   While this initiative is also helpful and informative, it...
+Not a real error.
+
+[39
+
+]
+
+LaTeX Warning: Citation 'Ho.2021' on page 2 undefined on input line 240.
+
+./_region_.tex:244: Preview: Snippet 40 started.
+<-><->
+      
+l.244 \paragraph
+                {} Put simply, NCPC and ST's initiatives do not consider you...
+Not a real error.
+
+./_region_.tex:244: Preview: Snippet 40 ended.(0+0x0).
+<-><->
+      
+l.244 \paragraph{}
+                   Put simply, NCPC and ST's initiatives do not consider you...
+Not a real error.
+
+[40
+
+]
+./_region_.tex:248: Preview: Snippet 41 started.
+<-><->
+      
+l.248 \subsection
+                 {Our approach}
+Not a real error.
+
+./_region_.tex:248: Preview: Snippet 41 ended.(546132+152916x26843902).
+<-><->
+      
+l.248 \subsection{Our approach}
+                               
+Not a real error.
+
+[41
+
+]
+./_region_.tex:249: Preview: Snippet 42 started.
+<-><->
+      
+l.249 \paragraph
+                {} We have a two-pronged approach:
+Not a real error.
+
+./_region_.tex:249: Preview: Snippet 42 ended.(0+0x0).
+<-><->
+      
+l.249 \paragraph{}
+                   We have a two-pronged approach:
+Not a real error.
+
+[42
+
+]
+./_region_.tex:251: Preview: Snippet 43 started.
+<-><->
+      
+l.251 \subsubsection
+                    {Changing attitudes}
+Not a real error.
+
+./_region_.tex:251: Preview: Snippet 43 ended.(455111+127431x26843902).
+<-><->
+      
+l.251 \subsubsection{Changing attitudes}
+                                        
+Not a real error.
+
+[43
+
+]
+./_region_.tex:252: Preview: Snippet 44 started.
+<-><->
+      
+l.252 \paragraph
+                {} To incite behavioural change such that youth would act more
+Not a real error.
+
+./_region_.tex:252: Preview: Snippet 44 ended.(0+0x0).
+<-><->
+      
+l.252 \paragraph{}
+                   To incite behavioural change such that youth would act more
+Not a real error.
+
+[44
+
+]
+
+LaTeX Warning: Citation 'ConnorBernal.2020' on page 2 undefined on input line 254.
+
+./_region_.tex:258: Preview: Snippet 45 started.
+<-><->
+      
+l.258 \subsubsection
+                    {Educate}
+Not a real error.
+
+./_region_.tex:258: Preview: Snippet 45 ended.(455111+0x26843902).
+<-><->
+      
+l.258 \subsubsection{Educate}
+                             
+Not a real error.
+
+[45
+
+]
+./_region_.tex:259: Preview: Snippet 46 started.
+<-><->
+      
+l.259 \paragraph
+                {} When youths are aware of the need to learn more about scams,
+Not a real error.
+
+./_region_.tex:259: Preview: Snippet 46 ended.(0+0x0).
+<-><->
+      
+l.259 \paragraph{}
+                   When youths are aware of the need to learn more about scams,
+Not a real error.
+
+[46
+
+]
+
+LaTeX Warning: Citation 'DatarColeRogers.2014' on page 2 undefined on input line 264.
+
+./_region_.tex:268: Preview: Snippet 47 started.
+<-><->
+      
+l.268 \subsection
+                 {Flowchart}
+Not a real error.
+
+./_region_.tex:268: Preview: Snippet 47 ended.(546132+0x26843902).
+<-><->
+      
+l.268 \subsection{Flowchart}
+                            
+Not a real error.
+
+[47
+
+]
+./_region_.tex:269: Preview: Snippet 48 started.
+<-><->
+      
+l.269 \begin{figure}
+                    [ht!]
+Not a real error.
+
+<./images//flowchart.png, id=264, 1419.3025pt x 2006.49625pt>
+File: ./images//flowchart.png Graphic file (type png)
+<use ./images//flowchart.png>
+Package pdftex.def Info: ./images//flowchart.png  used on input line 270.
+(pdftex.def)             Requested size: 409.60544pt x 579.05229pt.
+./_region_.tex:271: Preview: Snippet 48 ended.(37948771+0x26843902).
+<-><->
+      
+l.271 \end{figure}
+                  
+Not a real error.
+
+[48
+
+
+ <./images//flowchart.png>]
+./_region_.tex:273: Preview: Snippet 49 started.
+<-><->
+      
+l.273 \section
+              {Changing attitudes: ``ScamPain'' campaign}
+Not a real error.
+
+./_region_.tex:273: Preview: Snippet 49 ended.(655359+183500x26843902).
+<-><->
+      
+l.273 ...hanging attitudes: ``ScamPain'' campaign}
+                                                  
+Not a real error.
+
+[49
+
+]
+./_region_.tex:274: Preview: Snippet 50 started.
+<-><->
+      
+l.274 \subsection
+                 {Objectives}
+Not a real error.
+
+./_region_.tex:274: Preview: Snippet 50 ended.(546132+152916x26843902).
+<-><->
+      
+l.274 \subsection{Objectives}
+                             
+Not a real error.
+
+[50
+
+]
+./_region_.tex:275: Preview: Snippet 51 started.
+<-><->
+      
+l.275 \subsection
+                 {Details}
+Not a real error.
+
+./_region_.tex:275: Preview: Snippet 51 ended.(546132+0x26843902).
+<-><->
+      
+l.275 \subsection{Details}
+                          
+Not a real error.
+
+[51
+
+]
+./_region_.tex:276: Preview: Snippet 52 started.
+<-><->
+      
+l.276 \subsubsection
+                    {Advertisments}
+Not a real error.
+
+./_region_.tex:276: Preview: Snippet 52 ended.(455111+0x26843902).
+<-><->
+      
+l.276 \subsubsection{Advertisments}
+                                   
+Not a real error.
+
+[52
+
+]
+./_region_.tex:277: Preview: Snippet 53 started.
+<-><->
+      
+l.277 \subsubsection
+                    {Immersive experience}
+Not a real error.
+
+./_region_.tex:277: Preview: Snippet 53 ended.(455111+127431x26843902).
+<-><->
+      
+l.277 \subsubsection{Immersive experience}
+                                          
+Not a real error.
+
+[53
+
+]
+./_region_.tex:278: Preview: Snippet 54 started.
+<-><->
+      
+l.278 \subsection
+                 {Evaluation}
+Not a real error.
+
+./_region_.tex:278: Preview: Snippet 54 ended.(546132+0x26843902).
+<-><->
+      
+l.278 \subsection{Evaluation}
+                             
+Not a real error.
+
+[54
+
+]
+./_region_.tex:280: Preview: Snippet 55 started.
+<-><->
+      
+l.280 \section
+              {Educate: Scams 101 micromodule}
+Not a real error.
+
+./_region_.tex:280: Preview: Snippet 55 ended.(655359+0x26843902).
+<-><->
+      
+l.280 \section{Educate: Scams 101 micromodule}
+                                              
+Not a real error.
+
+[55
+
+]
+./_region_.tex:281: Preview: Snippet 56 started.
+<-><->
+      
+l.281 \subsection
+                 {Objectives}
+Not a real error.
+
+./_region_.tex:281: Preview: Snippet 56 ended.(546132+152916x26843902).
+<-><->
+      
+l.281 \subsection{Objectives}
+                             
+Not a real error.
+
+[56
+
+]
+./_region_.tex:282: Preview: Snippet 57 started.
+<-><->
+      
+l.282 \subsection
+                 {Rationale}
+Not a real error.
+
+./_region_.tex:282: Preview: Snippet 57 ended.(546132+0x26843902).
+<-><->
+      
+l.282 \subsection{Rationale}
+                            
+Not a real error.
+
+[57
+
+]
+./_region_.tex:283: Preview: Snippet 58 started.
+<-><->
+      
+l.283 \subsection
+                 {Details}
+Not a real error.
+
+./_region_.tex:283: Preview: Snippet 58 ended.(546132+0x26843902).
+<-><->
+      
+l.283 \subsection{Details}
+                          
+Not a real error.
+
+[58
+
+]
+./_region_.tex:284: Preview: Snippet 59 started.
+<-><->
+      
+l.284 \subsection
+                 {Evaluation}
+Not a real error.
+
+./_region_.tex:284: Preview: Snippet 59 ended.(546132+0x26843902).
+<-><->
+      
+l.284 \subsection{Evaluation}
+                             
+Not a real error.
+
+[59
+
+]
+./_region_.tex:286: Preview: Snippet 60 started.
+<-><->
+      
+l.286 \section
+              {Conclusion}
+Not a real error.
+
+./_region_.tex:286: Preview: Snippet 60 ended.(655359+0x26843902).
+<-><->
+      
+l.286 \section{Conclusion}
+                          
+Not a real error.
+
+[60
+
+]
+./_region_.tex:287: Preview: Snippet 61 started.
+<-><->
+      
+l.287 \subsection
+                 {Overall evaluation}
+Not a real error.
+
+./_region_.tex:287: Preview: Snippet 61 ended.(546132+0x26843902).
+<-><->
+      
+l.287 \subsection{Overall evaluation}
+                                     
+Not a real error.
+
+[61
+
+]
+./_region_.tex:288: Preview: Snippet 62 started.
+<-><->
+      
+l.288 \subsection
+                 {Future development}
+Not a real error.
+
+./_region_.tex:288: Preview: Snippet 62 ended.(546132+152916x26843902).
+<-><->
+      
+l.288 \subsection{Future development}
+                                     
+Not a real error.
+
+[62
+
+]
+
+LaTeX Warning: Empty bibliography on input line 292.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                _region_
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to '_region_.run.xml'.
+\openout1 = `_region_.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 23131 strings out of 477974
+ 417295 string characters out of 5839547
+ 1860388 words of memory out of 5000000
+ 42844 multiletter control sequences out of 15000+600000
+ 523398 words of font info for 126 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 64i,10n,68p,1241b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
+
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on _region_.pdf (62 pages, 1614421 bytes).
+PDF statistics:
+ 400 PDF objects out of 1000 (max. 8388607)
+ 305 compressed objects within 4 object streams
+ 118 named destinations out of 1000 (max. 500000)
+ 34857 words of extra memory for PDF output out of 35830 (max. 10000000)
+
